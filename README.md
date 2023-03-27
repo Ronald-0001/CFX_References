@@ -9,3 +9,6 @@ The dll references for cfx i use
 * for Server
 * download the latest build and use
 * `-> citizen\clr2\lib\mono\4.5\CitizenFX.Core.dll`
+---
+* for newtonsoft.json
+* use `Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll`
