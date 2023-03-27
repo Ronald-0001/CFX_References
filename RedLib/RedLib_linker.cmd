@@ -1,3 +1,3 @@
 set dir=%~p1
-echo %dir%
+IF EXIST "RedLib.dll" ( del "RedLib.dll" )
 mklink/h "%~dp0RedLib.dll" "%~1"
